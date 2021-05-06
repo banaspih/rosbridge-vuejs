@@ -3,9 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "node main.js",
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "start": "node main.js"
+    
   },
   "dependencies": {
     "core-js": "^3.6.5",
