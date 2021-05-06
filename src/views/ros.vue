@@ -7,9 +7,9 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js">
 
     </script>
-    <script src="https://static.robotwebtools.org/roslibjs/current/roslib.min.js">
+   <!-- <script src="https://static.robotwebtools.org/roslibjs/current/roslib.min.js">
 
-    </script>
+    </script> -->
 </head>
 
 <body class="d-flex flex-column h-100">
